@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de software en posesión del título universitario de Tecnólogo Informático y experiencia en desarrollo de software. Con unas excelentes habilidades y capaz de aprender fácilmente y con afán de superación.
+Desarrollador de software en posesión del título universitario de Tecnólogo Informático y experiencia en desarrollo de software.
 
 
 ## 🌐 Socials:
